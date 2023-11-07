@@ -13,7 +13,7 @@ dynamicRedirects:
     to: /gray/bad
     status: 308
   -
-    from: /all/*
+    from: /all/hi/*
     to: /gray
     status: 308
   # This is a custom redirect because the status code is 3xx.
