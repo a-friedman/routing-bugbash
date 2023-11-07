@@ -26,7 +26,7 @@ staticRedirects:
 authentication:
   policyName: auth-policy
   includePaths:
-    - /red # red is locked down
+    - /blue # red is locked down
   excludePaths:
     - /red  
 
