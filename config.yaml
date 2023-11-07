@@ -17,7 +17,7 @@ staticRedirects:
   -
     from: /grey-redirect
     to: /gray
-    status: 305
+    status: 308
   -
     from: /grey
     to: /gray
