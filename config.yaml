@@ -23,12 +23,12 @@ staticRedirects:
     to: /blue
     status: 200
   -
-    from: /red-redirect
-    to: /red
-    status: 308
-  -
     from: /red
     to: /brown
+    status: 308    
+  -
+    from: /red-redirect
+    to: /red
     status: 308
 # adds authentication to your site. Commented out as a policy with the name auth02 must exist
 authentication:
