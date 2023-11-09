@@ -18,7 +18,6 @@ dynamicRedirects:
     status: 308
   # This is a custom redirect because the status code is 3xx.
 staticRedirects:
-  -
     from: /blue-rewrite
     to: /blue
     status: 200
